@@ -8,7 +8,7 @@ Features include temperature, min/max temps, wind speed (km/h), humidity, pressu
 ## Setup Instructions
 
 1. Clone this repository  
-git clone < https://github.com/Tech-Nomadic-X/weather-forecast-app >
+git clone < https://github.com/Tech-Nomadic-X/weather-forecast-app-for-Micro-IT >
 2. Create and activate a virtual environment (recommended)  
 
 python -m venv venv
